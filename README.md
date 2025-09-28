@@ -1,9 +1,9 @@
 # 🚀 Design and Implementation of a Microcontroller-Based Speed Control System for a DC Motor Using a Three-Phase AC Supply  
 
-![Hardware](https://img.shields.io/badge/Hardware-Electronics-blue?style=for-the-badge&logo=hackaday)  
-![Software](https://img.shields.io/badge/Software-Tools-green?style=for-the-badge&logo=github)  
-![Microcontroller](https://img.shields.io/badge/STM32-MCU-lightgrey?style=for-the-badge&logo=arm)  
-![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=for-the-badge&logo=mathworks)  
+![Hardware](https://img.shields.io/badge/Hardware-Electronics-blue?style=for-the-badge&logo=hackaday) 
+![Software](https://img.shields.io/badge/Software-Tools-green?style=for-the-badge&logo=github) 
+![Microcontroller](https://img.shields.io/badge/STM32-MCU-lightgrey?style=for-the-badge&logo=arm) 
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=for-the-badge&logo=mathworks) 
 
 ---
 
@@ -132,4 +132,4 @@ The project is divided into three main problem areas:
 **Muhammad Taha**  
 - 🌐 Portfolio: [thetahaansari.github.io/mappe](https://thetahaansari.github.io/mappe/)  
 - 💼 LinkedIn: [linkedin.com/in/muhammad-taha-b93716299](https://www.linkedin.com/in/muhammad-taha-b93716299/)  
-- 🔗 GitHub: [github.com/YourGitHubUsername](https://github.com/Muhammad-Taha-Ansari)  
+- 🔗 GitHub: [github.com/Muhammad-Taha-Ansari](https://github.com/Muhammad-Taha-Ansari)  
