@@ -133,3 +133,7 @@ The project is divided into three main problem areas:
 - 🌐 Portfolio: [thetahaansari.github.io/mappe](https://thetahaansari.github.io/mappe/)  
 - 💼 LinkedIn: [linkedin.com/in/muhammad-taha-b93716299](https://www.linkedin.com/in/muhammad-taha-b93716299/)  
 - 🔗 GitHub: [github.com/Muhammad-Taha-Ansari](https://github.com/Muhammad-Taha-Ansari)  
+
+---
+
+⭐ If you liked this project, give it a **Star** and stay tuned for more!  
